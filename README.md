@@ -2,7 +2,7 @@
 
 # Práctica 1: Sistema de Lotka-Volterra
 
-## Información de la estudiante
+## Información del estudiante
 Oscar González Ramírez \[M25210050]; m25210050@tectijuana.edu.mx
 
 Gemelos Digitales
