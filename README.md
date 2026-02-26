@@ -1,4 +1,3 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica1GD)
 
 # Práctica 1: Sistema de Lotka-Volterra
 
